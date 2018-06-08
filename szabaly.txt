@@ -1,0 +1,41 @@
+[Altalanos leiras] ?
+Az Uno-t egyszerre 2-10 jatekos jatszhatja. 7 eves kor felett barkinek ajanlott. ?
+[A jatek celja] ?
+Legy az elso jatekos, aki az ellenfelek elott megjatsza az osszes lapjat. ?
+A jatek kezdeten minden resztvevo 7 lapot kap az osztotol. ?
+Az osszes megmaradt kartya egy pakliba kerul.  ?
+A pakli legelso lapjat felkell forditani es az lesz a kezdo kartya. ?
+A kezdo jatekos kivalaszt, majd letesz egy lapot a kezeben levo kartyak kozul ugy, hogy az passzoljon az elozoleg felforditott kartya szinehez, vagy szamahoz. ?
+Az ezutan kovetkezo jatekosnak hasonlo metodus alapjan kell egy lapot valasztania az o kartyai kozul. ?
+A Joker kartya akarmilyen szinu es szamu lapra leteheto.  ?
+Ha egy jatekos nem tud egy lapot sem letenni az ovei kozul, akkor huznia kell egy kartyat a paklibol. ?
+[A jatek 108 lapot tartalmaz] ?
+19 kek kartya: 0-9; 19 zold kartya: 0-9; 19 piros kartya: 0-9; 19 sarga kartya: 0-9 ?
+8 Huzz kettot! kartya: 2 kek, 2 zold, 2 piros, 2 sarga ?
+8 Fordulj! kartya: 2 kek, 2 zold, 2 piros, 2 sarga ?
+8 Ugorj! kartya: 2 kek, 2 zold, 2 piros, 2 sarga ?
+4 Joker kartya; 4 Huzz negyet! Joker kartya ?
+[A jatek menete] ?
+Az elso jatekos kezd.  ?
+Olyan lapot kell letennie, amely szineben, ertekeben, vagy abrajaban passzol az pakli tetejen levo, felforditott laphoz. ?
+A jatek hasonlo modon folytatodik, azaz minden jatekosnak ezt az elvet kell kovetnie a kartyak lerakasakor.  ?
+Ha egy jatekos nem tud semmilyen lapot az asztalra helyezni, akkor lapot kell huznia a paklibol.  ?
+A lap a kezeben marad, es a kovetkezo jatekosra kerul a sor. ?
+Akinek eloszor fogy el a kezebol az osszes lap, az nyer. ?
+[Specialis lapok] ?
+Huzz kettot! kartya : Amikor ezt a lapot lerakjak, akkor a kovetkezo jatekosnak ket lapot kell huznia, valamint kimarad egy korbol.  ?
+Ezt a lapot csak akkor lehet megjatszani, ha a lap szine megegyezik az elozo kartya szinevel, vagy egy Huzz Ketto! kartyat tett le az elozo jatekos is. ?
+Fordulj! kartya : Ez a kartya megforditja a jatek iranyat. ?
+Ugorj! kartya megjatszani, ha a lap szine megegyezik az elozo kartya szinevel vagy egy Ugorj! kartyat tett le az elozo jatekos is.  ?
+A soron kovetkezo jatekos kimarad ebbol a korbol. ?
+Joker : Aki ezt a lapot rakja le, maga hatarozhatja meg a kovetkezo hivo szint. A Joker barmikor lerakhato. ?
+Joker Huzz negy lapot! kartya : Aki ezt a lapot lerakja, maga hatarozhatja meg kovetkezo hivo szint.  ?
+Ezen felul a kovetkezo jatekos kimarad egy korbol, valamint 4 kartyat is fel kell vennie. ?
+Ha a kovetkezo jatekosnak van ugyanolyan kartyaja, mint amit leraktak, akkor o is lerakhatja es az utana levo jatekosra szall a kartya hatasa. ?
+[A jatek befejezese] ?
+Ha egy jatekosnak csak egy lapja marad, akkor az UNO szot kell mondania akkor, amikor a ket kezben tartott lapjabol az egyiket lerakja.  ?
+Ezzel figyelmezteti jatekostarsait, hogy a kovetkezo korben ki fog menni.  ?
+Ha ezt elmulasztja, 2 lapot kell huznia a paklibol.  ?
+Ez csak akkor kotelezo, ha valamelyik jatekos ezt eszrevette.  ?
+Ha egy jatekos kezebol elfogytak a lapok, a jateknak vege es ujabb jatek kezdodhet!
+
